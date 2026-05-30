@@ -11,4 +11,5 @@ How to build the game
 
 `gcc pong.c -o pong -lraylib -lm` 
 
-3. Start the game: './pong'
+3. Start the game:
+'./pong'

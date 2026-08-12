@@ -7,7 +7,7 @@ Right racket: Up arrow and Down arrow.
 
 How to build the game 
 1. Make sure the Raylib library is installed.
-2. Copy and paste this into the console to compile the program (the command you copied but paste after you go to the program directory):
+2. Copy and paste this into the console to compile the program (paste the command you copied after navigating to the program's folder):
  
 `gcc pong.c -o pong -lraylib -lm` 
 
